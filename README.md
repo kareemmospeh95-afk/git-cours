@@ -1,4 +1,3 @@
-# git-cours
-for learn git and git hub
+# I Create the first template in elzero web school
+for learn web development
 
-## project notes
